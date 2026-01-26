@@ -76,16 +76,16 @@
     "url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "96.92%",
+    "uptimeDay": "96.91%",
     "uptimeWeek": "96.38%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.41%",
-    "time": 891,
-    "timeDay": 1340,
-    "timeWeek": 1161,
-    "timeMonth": 1228,
+    "time": 890,
+    "timeDay": 1228,
+    "timeWeek": 1147,
+    "timeMonth": 1223,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2026-01-26": 44,
@@ -169,8 +169,7 @@
       "2025-03-18": 22,
       "2025-03-14": 23,
       "2025-03-12": 18,
-      "2025-03-11": 20,
-      "2025-03-08": 16
+      "2025-03-11": 20
     }
   },
   {
@@ -214,7 +213,7 @@
     "timeMonth": 463,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2026-01-26": 1219,
+      "2026-01-26": 1245,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
