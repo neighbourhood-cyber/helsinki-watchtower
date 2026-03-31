@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 546,
-    "timeWeek": 745,
-    "timeMonth": 1087,
-    "timeYear": 1330,
+    "time": 1238,
+    "timeDay": 553,
+    "timeWeek": 715,
+    "timeMonth": 1070,
+    "timeYear": 1328,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 672,
-    "timeDay": 393,
-    "timeWeek": 623,
-    "timeMonth": 931,
-    "timeYear": 738,
+    "time": 673,
+    "timeDay": 447,
+    "timeWeek": 630,
+    "timeMonth": 915,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2026-01-07": 46,
       "2025-09-09": 47,
@@ -59,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
-    "time": 616,
-    "timeDay": 560,
-    "timeWeek": 546,
-    "timeMonth": 619,
-    "timeYear": 624,
+    "time": 615,
+    "timeDay": 418,
+    "timeWeek": 537,
+    "timeMonth": 613,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2026-03-03": 89,
       "2026-02-27": 67
@@ -81,10 +81,10 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.34%",
     "time": 880,
-    "timeDay": 1750,
+    "timeDay": 1399,
     "timeWeek": 1471,
-    "timeMonth": 1494,
-    "timeYear": 915,
+    "timeMonth": 1492,
+    "timeYear": 917,
     "dailyMinutesDown": {
       "2026-03-16": 57,
       "2026-03-13": 32,
@@ -183,10 +183,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1093,
-    "timeDay": 958,
-    "timeWeek": 988,
-    "timeMonth": 1064,
-    "timeYear": 1047,
+    "timeDay": 1031,
+    "timeWeek": 981,
+    "timeMonth": 1062,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-04-09": 655,
       "2025-04-08": 526
@@ -198,18 +198,19 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "57.18%",
+    "uptime": "57.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "10.21%",
-    "time": 642,
-    "timeDay": 489,
+    "time": 643,
+    "timeDay": 391,
     "timeWeek": 438,
-    "timeMonth": 505,
-    "timeYear": 606,
+    "timeMonth": 501,
+    "timeYear": 607,
     "dailyMinutesDown": {
-      "2026-03-30": 200,
+      "2026-03-31": 174,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -557,8 +558,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 960,
       "2025-04-03": 57,
-      "2025-04-02": 63,
-      "2025-03-31": 435
+      "2025-04-02": 63
     }
   },
   {
@@ -572,10 +572,10 @@
     "uptimeWeek": "93.01%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "99.62%",
-    "time": 1855,
-    "timeDay": 1453,
-    "timeWeek": 1517,
-    "timeMonth": 1624,
+    "time": 1857,
+    "timeDay": 1927,
+    "timeWeek": 1558,
+    "timeMonth": 1633,
     "timeYear": 1903,
     "dailyMinutesDown": {
       "2026-03-26": 420,
@@ -595,8 +595,7 @@
       "2025-04-15": 15,
       "2025-04-12": 95,
       "2025-04-07": 645,
-      "2025-04-01": 72,
-      "2025-03-31": 4
+      "2025-04-01": 72
     }
   }
 ]
