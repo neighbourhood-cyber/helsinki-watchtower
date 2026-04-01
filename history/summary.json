@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 553,
-    "timeWeek": 715,
-    "timeMonth": 1070,
-    "timeYear": 1328,
+    "time": 1237,
+    "timeDay": 551,
+    "timeWeek": 655,
+    "timeMonth": 1055,
+    "timeYear": 1327,
     "dailyMinutesDown": {}
   },
   {
@@ -30,8 +30,8 @@
     "uptimeYear": "99.90%",
     "time": 673,
     "timeDay": 447,
-    "timeWeek": 630,
-    "timeMonth": 915,
+    "timeWeek": 555,
+    "timeMonth": 913,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2026-01-07": 46,
@@ -44,8 +44,7 @@
       "2025-06-04": 21,
       "2025-06-03": 38,
       "2025-06-02": 53,
-      "2025-04-28": 42,
-      "2025-04-01": 49
+      "2025-04-28": 42
     }
   },
   {
@@ -60,10 +59,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 615,
-    "timeDay": 418,
-    "timeWeek": 537,
-    "timeMonth": 613,
-    "timeYear": 623,
+    "timeDay": 493,
+    "timeWeek": 528,
+    "timeMonth": 602,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2026-03-03": 89,
       "2026-02-27": 67
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.34%",
-    "time": 880,
-    "timeDay": 1399,
-    "timeWeek": 1471,
-    "timeMonth": 1492,
-    "timeYear": 917,
+    "time": 885,
+    "timeDay": 4025,
+    "timeWeek": 1808,
+    "timeMonth": 1554,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2026-03-16": 57,
       "2026-03-13": 32,
@@ -183,10 +182,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1093,
-    "timeDay": 1031,
-    "timeWeek": 981,
-    "timeMonth": 1062,
-    "timeYear": 1046,
+    "timeDay": 1158,
+    "timeWeek": 979,
+    "timeMonth": 1064,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-04-09": 655,
       "2025-04-08": 526
@@ -198,18 +197,19 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "57.10%",
+    "uptime": "57.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.14%",
-    "time": 643,
-    "timeDay": 391,
-    "timeWeek": 438,
-    "timeMonth": 501,
-    "timeYear": 604,
+    "uptimeYear": "9.98%",
+    "time": 641,
+    "timeDay": 384,
+    "timeWeek": 409,
+    "timeMonth": 492,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-03-31": 840,
+      "2026-04-01": 205,
+      "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -571,12 +571,12 @@
     "uptimeDay": "89.78%",
     "uptimeWeek": "91.55%",
     "uptimeMonth": "97.88%",
-    "uptimeYear": "99.59%",
-    "time": 1854,
-    "timeDay": 1651,
-    "timeWeek": 1541,
-    "timeMonth": 1626,
-    "timeYear": 1901,
+    "uptimeYear": "99.61%",
+    "time": 1853,
+    "timeDay": 1458,
+    "timeWeek": 1523,
+    "timeMonth": 1620,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2026-03-31": 147,
       "2026-03-26": 420,
@@ -595,8 +595,7 @@
       "2025-05-25": 23,
       "2025-04-15": 15,
       "2025-04-12": 95,
-      "2025-04-07": 645,
-      "2025-04-01": 72
+      "2025-04-07": 645
     }
   }
 ]
