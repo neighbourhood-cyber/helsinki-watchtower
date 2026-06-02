@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1206,
-    "timeDay": 462,
-    "timeWeek": 858,
-    "timeMonth": 855,
-    "timeYear": 1178,
+    "timeDay": 758,
+    "timeWeek": 853,
+    "timeMonth": 833,
+    "timeYear": 1176,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 684,
-    "timeDay": 457,
-    "timeWeek": 454,
-    "timeMonth": 689,
-    "timeYear": 754,
+    "timeDay": 638,
+    "timeWeek": 481,
+    "timeMonth": 674,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2026-01-07": 46,
       "2025-09-09": 47,
@@ -42,8 +42,7 @@
       "2025-06-24": 50,
       "2025-06-18": 45,
       "2025-06-04": 21,
-      "2025-06-03": 38,
-      "2025-06-02": 53
+      "2025-06-03": 38
     }
   },
   {
@@ -58,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 610,
-    "timeDay": 443,
-    "timeWeek": 533,
-    "timeMonth": 612,
+    "timeDay": 604,
+    "timeWeek": 555,
+    "timeMonth": 611,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2026-03-03": 89,
@@ -77,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
-    "time": 1011,
-    "timeDay": 1427,
-    "timeWeek": 1741,
-    "timeMonth": 1801,
-    "timeYear": 1072,
+    "uptimeYear": "99.30%",
+    "time": 1013,
+    "timeDay": 1838,
+    "timeWeek": 1822,
+    "timeMonth": 1784,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-04-30": 101,
       "2026-04-26": 133,
@@ -168,16 +167,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "helsinki-police-department",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 890,
-    "timeWeek": 966,
-    "timeMonth": 1092,
-    "timeYear": 1028,
+    "time": 1069,
+    "timeDay": 1246,
+    "timeWeek": 1031,
+    "timeMonth": 1089,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -186,18 +185,19 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "53.94%",
+    "uptime": "53.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.57%",
-    "time": 534,
-    "timeDay": 301,
-    "timeWeek": 439,
-    "timeMonth": 469,
-    "timeYear": 485,
+    "uptimeYear": "0.30%",
+    "time": 532,
+    "timeDay": 326,
+    "timeWeek": 432,
+    "timeMonth": 458,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2026-06-01": 294,
+      "2026-06-02": 282,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -560,8 +560,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 976,
-      "2025-06-02": 27
+      "2025-06-03": 976
     }
   },
   {
@@ -576,9 +575,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.74%",
     "time": 1818,
-    "timeDay": 1268,
-    "timeWeek": 1418,
-    "timeMonth": 1492,
+    "timeDay": 1397,
+    "timeWeek": 1452,
+    "timeMonth": 1481,
     "timeYear": 1873,
     "dailyMinutesDown": {
       "2026-05-07": 110,
@@ -593,8 +592,7 @@
       "2025-09-14": 57,
       "2025-08-11": 40,
       "2025-06-30": 55,
-      "2025-06-22": 22,
-      "2025-06-02": 21
+      "2025-06-22": 22
     }
   }
 ]
