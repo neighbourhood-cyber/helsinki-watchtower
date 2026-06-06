@@ -14,7 +14,7 @@
     "timeDay": 833,
     "timeWeek": 783,
     "timeMonth": 779,
-    "timeYear": 1174,
+    "timeYear": 1175,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1047,
     "timeWeek": 707,
     "timeMonth": 652,
-    "timeYear": 756,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2026-01-07": 46,
       "2025-09-09": 47,
@@ -58,7 +58,7 @@
     "timeDay": 543,
     "timeWeek": 521,
     "timeMonth": 590,
-    "timeYear": 623,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2026-03-03": 89,
       "2026-02-27": 67
@@ -69,18 +69,19 @@
     "url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.25%",
     "time": 1019,
-    "timeDay": 1707,
-    "timeWeek": 1420,
-    "timeMonth": 1630,
+    "timeDay": 1256,
+    "timeWeek": 1369,
+    "timeMonth": 1608,
     "timeYear": 1088,
     "dailyMinutesDown": {
+      "2026-06-06": 0,
       "2026-06-04": 156,
       "2026-06-03": 231,
       "2026-04-30": 101,
@@ -165,7 +166,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "helsinki-police-department",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -174,7 +175,7 @@
     "timeDay": 907,
     "timeWeek": 959,
     "timeMonth": 1044,
-    "timeYear": 1028,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -183,7 +184,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "53.70%",
+    "uptime": "53.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -194,7 +195,7 @@
     "timeMonth": 442,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2026-06-06": 242,
+      "2026-06-06": 1420,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -576,7 +577,7 @@
     "timeDay": 1295,
     "timeWeek": 1394,
     "timeMonth": 1454,
-    "timeYear": 1869,
+    "timeYear": 1870,
     "dailyMinutesDown": {
       "2026-05-07": 110,
       "2026-03-31": 147,
